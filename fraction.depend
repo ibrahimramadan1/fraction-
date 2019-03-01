@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1551211627 source:c:\users\hp\desktop\fraction\fraction.cpp
+	"fraction.h"
+	<iostream>
+
+1551209096 c:\users\hp\desktop\fraction\fraction.h
+	<iostream>
+
+1551210729 source:c:\users\hp\desktop\fraction\main.cpp
+	<iostream>
+	"fraction.h"
+
